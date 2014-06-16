@@ -3,8 +3,8 @@
     <title>Кракозябры</title>
     <meta http-equiv="Content-Type" content="text/html; charset=cp1251" />
 </head>
-<body><p>
-</p><p>
+<body>
+<p>
     <?php
     // Этот файл ДОЛЖЕН быть сохранен в кодировке cp1251
     // или любой другой, но тогда обязательно поменять charset=cp1251 в строке 4
