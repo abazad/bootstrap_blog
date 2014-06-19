@@ -1,7 +1,7 @@
 <?php
 session_start();
 header('Content-type: text/html; charset=UTF-8');
-$mysqli = new mysqli('localhost', 'root', '206369AsD') or die('Cannot connect to database');
+$mysqli = new mysqli('localhost', 'root', '') or die('Cannot connect to database');
 $mysqli->select_db('blog') or die('Cannot select database');
 $mysqli->set_charset("utf8");
 mb_internal_encoding('UTF-8');
