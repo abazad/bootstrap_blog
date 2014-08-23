@@ -8,10 +8,12 @@
 
     <!-- Bootstrap -->
     <link href="../bootstrap/css/normalize.css" rel="stylesheet">
-    <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="../bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
-    <link href="../bootstrap/css/main.css" rel="stylesheet">
-    <link href="../bootstrap/css/form.css" rel="stylesheet">
+	<link href="../bootstrap/css/blog-home.css" rel="stylesheet">
+    <link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+	<link href="../bootstrap/css/bootswatch.min.css">
+	<!--<link href="../bootstrap/css/bootstrap-theme.css" rel="stylesheet">
+	<link href="../bootstrap/css/main.css" rel="stylesheet">
+	<link href="../bootstrap/css/form.css" rel="stylesheet">-->
 
     <script src="../bootstrap/js/jquery-2.1.1.js"></script>
     <script src="../bootstrap/js/bootstrap.js"></script>
@@ -24,7 +26,7 @@
     <![endif]-->
 </head>
 <body>
-    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="navbar-collapse">
